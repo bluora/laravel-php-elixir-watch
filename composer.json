@@ -1,6 +1,6 @@
 {
     "name": "bluora/laravel-php-elixir-watch",
-    "description": "Provides the watch functionality to Laravel PHP-Elixir.",
+    "description": "Provides the watch functionality to Laravel PHP-Elixir",
     "keywords": ["laravel", "php", "elixir", "watch"],
     "license": "MIT",
     "authors": [

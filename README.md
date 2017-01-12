@@ -7,3 +7,14 @@ __________.__          ___________.__  .__       .__
                \/|__|          \/               \/          
                                         Elixir Watch Command
 ```
+
+Provides the ability to watch changes in specified files or folder and automatically run elixir.
+
+## Watch
+
+Watch configuruation item is only used by the elixir:watch console command.
+
+```yaml
+watch:
+    - PATH_RESOURCES?filter=!php
+```
