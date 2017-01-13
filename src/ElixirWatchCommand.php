@@ -2,6 +2,7 @@
 
 namespace Bluora\PhpElixirWatch;
 
+use Bluora\PhpElixir\SharedTrait;
 use Config;
 use Illuminate\Console\Command;
 
