@@ -24,6 +24,13 @@
             "Bluora\\PhpElixirWatch\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bluora\\PhpElixirWatch\\ServiceProvider"
+            ]
+        }
+    },
     "scripts": {
       "test": "composer phpunit && composer phpcs",
       "phpcs": "./vendor/bin/phpcs -p -s --standard=PSR2 ./src ./tests",
